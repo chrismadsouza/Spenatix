@@ -1,6 +1,6 @@
 # Spenatix
 A Speech Analytics App giving Insights on Customer Call Center Data using Microsoft Azure Speech to Text API. 
-Audio data was obtained from call recordings of a private company. Details on how to upload files to Azure Blob Storage and more are in Azure.txt file.
+Audio data was obtained from call recordings of a private company. 
 
 Youtube video explaining the app: https://www.youtube.com/watch?v=MVWcXA9Dlr0
 
